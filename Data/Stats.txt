@@ -1,0 +1,4718 @@
+Vaccine: INFLUENZA (SEASONAL) (FLUMIST)
+	By manufacturer: MEDIMMUNE VACCINES, INC.
+		Total: 11
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 4
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 3
+Vaccine: ZOSTER (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: MENINGOCOCCAL (MENOMUNE)
+	By manufacturer: SANOFI PASTEUR
+		Total: 4
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 2
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Unknown Gender Records
+				From the 1990s: 1
+Vaccine: ROTAVIRUS (ROTATEQ)
+	By manufacturer: MERCK & CO. INC.
+		Total: 407
+		For age group Infant
+			Male Records
+				From the 2000s: 77
+		For age group Infant
+			Male Records
+				From the 2010s: 140
+		For age group Infant
+			Male Records
+				From the 2020s: 17
+		For age group Infant
+			Female Records
+				From the 2000s: 50
+		For age group Infant
+			Female Records
+				From the 2010s: 107
+		For age group Infant
+			Female Records
+				From the 2020s: 5
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 5
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2020s: 1
+Vaccine: DTAP (DAPTACEL)
+	By manufacturer: SANOFI PASTEUR
+		Total: 115
+		For age group Infant
+			Male Records
+				From the 2000s: 45
+		For age group Infant
+			Male Records
+				From the 2010s: 13
+		For age group Infant
+			Female Records
+				From the 2000s: 32
+		For age group Infant
+			Female Records
+				From the 2010s: 5
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 5
+		For age group Child
+			Male Records
+				From the 2010s: 4
+		For age group Child
+			Female Records
+				From the 2000s: 5
+		For age group Child
+			Female Records
+				From the 2010s: 4
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+Vaccine: MENINGOCOCCAL CONJUGATE (MENACTRA)
+	By manufacturer: SANOFI PASTEUR
+		Total: 38
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 4
+		For age group Child
+			Male Records
+				From the 2010s: 9
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 9
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 5
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+Vaccine: INFLUENZA (H1N1) (H1N1 (MONOVALENT) (SANOFI))
+	By manufacturer: SANOFI PASTEUR
+		Total: 44
+		For age group Child
+			Male Records
+				From the 2000s: 4
+		For age group Child
+			Male Records
+				From the 2010s: 4
+		For age group Child
+			Female Records
+				From the 2000s: 3
+		For age group Child
+			Female Records
+				From the 2010s: 2
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 2010s: 4
+		For age group Adult
+			Female Records
+				From the 2000s: 10
+		For age group Adult
+			Female Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 5
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 5
+Vaccine: INFLUENZA (SEASONAL) (FLUARIX QUADRIVALENT)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 29
+		For age group Child
+			Male Records
+				From the 2010s: 4
+		For age group Child
+			Male Records
+				From the 2020s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 3
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 4
+		For age group Elderly
+			Female Records
+				From the 2010s: 8
+		For age group Elderly
+			Female Records
+				From the 2020s: 3
+Vaccine: DTP + HEP B (TRITANRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 14
+		For age group Infant
+			Male Records
+				From the 2000s: 6
+		For age group Infant
+			Female Records
+				From the 2000s: 7
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+Vaccine: HIB (PROHIBIT)
+	By manufacturer: SANOFI PASTEUR
+		Total: 2
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 34
+		For age group Infant
+			Male Records
+				From the 1990s: 12
+		For age group Infant
+			Female Records
+				From the 1990s: 11
+		For age group Child
+			Male Records
+				From the 1990s: 5
+		For age group Child
+			Female Records
+				From the 1990s: 4
+		For age group Child
+			Female Records
+				From the 1980s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 1
+Vaccine: PNEUMO (PNEUMOVAX)
+	By manufacturer: MERCK & CO. INC.
+		Total: 211
+		For age group Infant
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 1980s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 3
+		For age group Child
+			Female Records
+				From the 2010s: 2
+		For age group Adult
+			Male Records
+				From the 1990s: 5
+		For age group Adult
+			Male Records
+				From the 1980s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 7
+		For age group Adult
+			Male Records
+				From the 2010s: 10
+		For age group Adult
+			Female Records
+				From the 1990s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 11
+		For age group Adult
+			Female Records
+				From the 2010s: 5
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 10
+		For age group Elderly
+			Male Records
+				From the 2000s: 31
+		For age group Elderly
+			Male Records
+				From the 2010s: 30
+		For age group Elderly
+			Male Records
+				From the 2020s: 5
+		For age group Elderly
+			Female Records
+				From the 1990s: 12
+		For age group Elderly
+			Female Records
+				From the 2000s: 24
+		For age group Elderly
+			Female Records
+				From the 2010s: 35
+		For age group Elderly
+			Unknown Gender Records
+				From the 2000s: 6
+		For age group Elderly
+			Unknown Gender Records
+				From the 2010s: 2
+Vaccine: INFLUENZA (SEASONAL) (FLUMIST QUADRIVALENT)
+	By manufacturer: MEDIMMUNE VACCINES, INC.
+		Total: 6
+		For age group Child
+			Male Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2010s: 3
+Vaccine: COVID19 (COVID19 (MODERNA))
+	By manufacturer: MODERNA
+		Total: 3880
+		For age group Child
+			Male Records
+				From the 2020s: 3
+		For age group Child
+			Female Records
+				From the 2020s: 2
+		For age group Adult
+			Male Records
+				From the 2020s: 410
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 229
+		For age group Adult
+			Unknown Gender Records
+				From the 2020s: 15
+		For age group Elderly
+			Male Records
+				From the 2020s: 1842
+		For age group Elderly
+			Female Records
+				From the 2020s: 1353
+		For age group Elderly
+			Unknown Gender Records
+				From the 2020s: 25
+Vaccine: HEP B (ENGERIX-B)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 184
+		For age group Infant
+			Male Records
+				From the 2000s: 36
+		For age group Infant
+			Male Records
+				From the 2010s: 38
+		For age group Infant
+			Male Records
+				From the 2020s: 3
+		For age group Infant
+			Female Records
+				From the 2000s: 26
+		For age group Infant
+			Female Records
+				From the 2010s: 29
+		For age group Infant
+			Female Records
+				From the 2020s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 6
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 2
+		For age group Adult
+			Male Records
+				From the 2000s: 7
+		For age group Adult
+			Male Records
+				From the 2010s: 3
+		For age group Adult
+			Female Records
+				From the 1990s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 7
+		For age group Adult
+			Female Records
+				From the 2010s: 3
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 4
+		For age group Elderly
+			Male Records
+				From the 2020s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+	By manufacturer: SMITHKLINE BEECHAM
+		Total: 199
+		For age group Infant
+			Male Records
+				From the 1990s: 74
+		For age group Infant
+			Male Records
+				From the 2000s: 26
+		For age group Infant
+			Female Records
+				From the 1990s: 42
+		For age group Infant
+			Female Records
+				From the 2000s: 12
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 7
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 1990s: 5
+		For age group Child
+			Female Records
+				From the 2000s: 6
+		For age group Adult
+			Male Records
+				From the 1990s: 8
+		For age group Adult
+			Female Records
+				From the 1990s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 3
+		For age group Adult
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 2
+		For age group Elderly
+			Female Records
+				From the 1990s: 3
+		For age group Elderly
+			Female Records
+				From the 2000s: 2
+		For age group Elderly
+			Unknown Gender Records
+				From the 1990s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUVIRIN)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 44
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 5
+		For age group Adult
+			Female Records
+				From the 2000s: 3
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 11
+		For age group Elderly
+			Male Records
+				From the 2010s: 6
+		For age group Elderly
+			Female Records
+				From the 2000s: 6
+		For age group Elderly
+			Female Records
+				From the 2010s: 10
+	By manufacturer: MEDEVA PHARMA, LTD.
+		Total: 31
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 12
+		For age group Elderly
+			Male Records
+				From the 2000s: 8
+		For age group Elderly
+			Female Records
+				From the 1990s: 6
+		For age group Elderly
+			Female Records
+				From the 2000s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+	By manufacturer: EVANS VACCINES
+		Total: 29
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 3
+		For age group Elderly
+			Male Records
+				From the 2000s: 11
+		For age group Elderly
+			Female Records
+				From the 2000s: 8
+		For age group Elderly
+			Unknown Gender Records
+				From the 2000s: 3
+Vaccine: TDAP (BOOSTRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 22
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 5
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 3
+		For age group Elderly
+			Male Records
+				From the 2020s: 1
+Vaccine: MENINGOCOCCAL (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 30
+		For age group Infant
+			Male Records
+				From the 2000s: 5
+		For age group Infant
+			Male Records
+				From the 2010s: 4
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 5
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 4
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (H1N1) (H1N1 (MONOVALENT) (CSL))
+	By manufacturer: CSL LIMITED
+		Total: 7
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+Vaccine: DTAP + IPV + HIB (NO BRAND NAME)
+	By manufacturer: SANOFI PASTEUR
+		Total: 23
+		For age group Infant
+			Male Records
+				From the 2010s: 11
+		For age group Infant
+			Female Records
+				From the 2010s: 9
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 2
+Vaccine: INFLUENZA (H1N1) (H1N1 (MONOVALENT) (GSK))
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 5
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUOGEN)
+	By manufacturer: PARKDALE PHARMACEUTICALS
+		Total: 2
+		For age group Adult
+			Female Records
+				From the 1990s: 2
+	By manufacturer: PARKE-DAVIS
+		Total: 34
+		For age group Adult
+			Male Records
+				From the 1990s: 2
+		For age group Adult
+			Female Records
+				From the 1990s: 2
+		For age group Elderly
+			Male Records
+				From the 1990s: 11
+		For age group Elderly
+			Female Records
+				From the 1990s: 19
+Vaccine: INFLUENZA (SEASONAL) (FLUARIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 50
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 6
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 8
+		For age group Elderly
+			Male Records
+				From the 2010s: 9
+		For age group Elderly
+			Female Records
+				From the 2000s: 11
+		For age group Elderly
+			Female Records
+				From the 2010s: 11
+		For age group Elderly
+			Unknown Gender Records
+				From the 2010s: 1
+Vaccine: HIB (TETRACOQ)
+	By manufacturer: SANOFI PASTEUR
+		Total: 2
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+Vaccine: PERTUSSIS (NO BRAND NAME)
+	By manufacturer: EMERGENT BIOSOLUTIONS
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 3
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+Vaccine: HEP A (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 7
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+Vaccine: MEASLES + MUMPS + RUBELLA (PRIORIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 12
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 4
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLULAVAL QUADRIVALENT)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 15
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2020s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 2
+Vaccine: ROTAVIRUS (ROTARIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 200
+		For age group Infant
+			Male Records
+				From the 2000s: 13
+		For age group Infant
+			Male Records
+				From the 2010s: 84
+		For age group Infant
+			Male Records
+				From the 2020s: 13
+		For age group Infant
+			Female Records
+				From the 2000s: 7
+		For age group Infant
+			Female Records
+				From the 2010s: 61
+		For age group Infant
+			Female Records
+				From the 2020s: 7
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 12
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: DTAP (CERTIVA)
+	By manufacturer: NORTH AMERICAN VACCINES
+		Total: 4
+		For age group Infant
+			Male Records
+				From the 2000s: 3
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+Vaccine: MENINGOCOCCAL B (BEXSERO)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 27
+		For age group Infant
+			Male Records
+				From the 2010s: 7
+		For age group Infant
+			Male Records
+				From the 2020s: 2
+		For age group Infant
+			Female Records
+				From the 2010s: 5
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 5
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+Vaccine: DTAP + HEPB + IPV (PEDIARIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 362
+		For age group Infant
+			Male Records
+				From the 2000s: 119
+		For age group Infant
+			Male Records
+				From the 2010s: 77
+		For age group Infant
+			Male Records
+				From the 2020s: 11
+		For age group Infant
+			Female Records
+				From the 2000s: 76
+		For age group Infant
+			Female Records
+				From the 2010s: 64
+		For age group Infant
+			Female Records
+				From the 2020s: 8
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Female Records
+				From the 2010s: 2
+Vaccine: MEASLES + MUMPS + RUBELLA + VARICELLA (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 2
+		For age group Child
+			Male Records
+				From the 2010s: 2
+Vaccine: VACCINE NOT SPECIFIED (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 214
+		For age group Infant
+			Male Records
+				From the 2000s: 13
+		For age group Infant
+			Male Records
+				From the 2010s: 6
+		For age group Infant
+			Female Records
+				From the 1990s: 2
+		For age group Infant
+			Female Records
+				From the 2000s: 10
+		For age group Infant
+			Female Records
+				From the 2010s: 5
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 6
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2020s: 19
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 13
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2020s: 68
+		For age group Elderly
+			Female Records
+				From the 2000s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 2020s: 55
+		For age group Elderly
+			Unknown Gender Records
+				From the 2020s: 2
+Vaccine: DTP + HIB (TETRAMUNE)
+	By manufacturer: PFIZERWYETH
+		Total: 193
+		For age group Infant
+			Male Records
+				From the 1990s: 104
+		For age group Infant
+			Female Records
+				From the 1990s: 80
+		For age group Infant
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 1990s: 4
+		For age group Child
+			Female Records
+				From the 1990s: 3
+Vaccine: INFLUENZA (SEASONAL) (AFLURIA QUADRIVALENT)
+	By manufacturer: SEQIRUS, INC.
+		Total: 12
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2020s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 3
+Vaccine: BCG (MYCOBAX)
+	By manufacturer: SANOFI PASTEUR
+		Total: 2
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+Vaccine: PNEUMO (SYNFLORIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 12
+		For age group Infant
+			Male Records
+				From the 2010s: 5
+		For age group Infant
+			Female Records
+				From the 2010s: 5
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+Vaccine: DT+IPV+HIB+HEPB (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 4
+		For age group Infant
+			Male Records
+				From the 2000s: 2
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+Vaccine: MENINGOCOCCAL (MENOMUNE-A/C)
+	By manufacturer: CONNAUGHT LTD.
+		Total: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUBLOK QUADRIVALENT)
+	By manufacturer: PROTEIN SCIENCES CORPORATION
+		Total: 4
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2020s: 1
+Vaccine: HIB (HIBTITER)
+	By manufacturer: PFIZERWYETH
+		Total: 502
+		For age group Infant
+			Male Records
+				From the 1990s: 257
+		For age group Infant
+			Male Records
+				From the 2000s: 38
+		For age group Infant
+			Female Records
+				From the 1990s: 140
+		For age group Infant
+			Female Records
+				From the 2000s: 24
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 4
+		For age group Child
+			Male Records
+				From the 1990s: 19
+		For age group Child
+			Male Records
+				From the 2000s: 4
+		For age group Child
+			Female Records
+				From the 1990s: 9
+		For age group Child
+			Female Records
+				From the 2000s: 5
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 2
+Vaccine: MENINGOCOCCAL CONJUGATE (MENVEO)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 3
+		For age group Child
+			Female Records
+				From the 2010s: 3
+Vaccine: MEASLES + MUMPS + RUBELLA (MMR II)
+	By manufacturer: MERCK & CO. INC.
+		Total: 234
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 49
+		For age group Child
+			Male Records
+				From the 1980s: 4
+		For age group Child
+			Male Records
+				From the 2000s: 42
+		For age group Child
+			Male Records
+				From the 2010s: 27
+		For age group Child
+			Male Records
+				From the 2020s: 4
+		For age group Child
+			Female Records
+				From the 1990s: 35
+		For age group Child
+			Female Records
+				From the 1980s: 5
+		For age group Child
+			Female Records
+				From the 2000s: 32
+		For age group Child
+			Female Records
+				From the 2010s: 16
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 5
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 5
+		For age group Adult
+			Female Records
+				From the 2010s: 2
+Vaccine: PNEUMO (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 47
+		For age group Infant
+			Male Records
+				From the 2000s: 2
+		For age group Infant
+			Male Records
+				From the 2010s: 9
+		For age group Infant
+			Male Records
+				From the 2020s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 4
+		For age group Infant
+			Female Records
+				From the 2010s: 11
+		For age group Infant
+			Female Records
+				From the 2020s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 4
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 3
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Unknown Gender Records
+				From the 2000s: 1
+Vaccine: HEP B (HEPLISAV-B)
+	By manufacturer: DYNAVAX TECHNOLOGIES CORPORATION
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+Vaccine: RABIES (RABIPUR)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 13
+		For age group Child
+			Male Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 4
+Vaccine: HIB (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 91
+		For age group Infant
+			Male Records
+				From the 1990s: 16
+		For age group Infant
+			Male Records
+				From the 2000s: 24
+		For age group Infant
+			Male Records
+				From the 2010s: 7
+		For age group Infant
+			Female Records
+				From the 1990s: 12
+		For age group Infant
+			Female Records
+				From the 2000s: 11
+		For age group Infant
+			Female Records
+				From the 2010s: 5
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 3
+		For age group Child
+			Male Records
+				From the 1990s: 3
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+Vaccine: PNEUMO (PREVNAR)
+	By manufacturer: PFIZERWYETH
+		Total: 789
+		For age group Infant
+			Male Records
+				From the 2000s: 357
+		For age group Infant
+			Male Records
+				From the 2010s: 54
+		For age group Infant
+			Male Records
+				From the 2020s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 226
+		For age group Infant
+			Female Records
+				From the 2010s: 35
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 4
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 8
+		For age group Child
+			Male Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 37
+		For age group Child
+			Male Records
+				From the 2010s: 10
+		For age group Child
+			Female Records
+				From the 2000s: 41
+		For age group Child
+			Female Records
+				From the 2010s: 6
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 3
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Unknown Gender Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (SEASONAL) (QIV DRESDEN)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 6
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 4
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: PLAGUE (NO BRAND NAME)
+	By manufacturer: MILES LABORATORIES
+		Total: 2
+		For age group Adult
+			Male Records
+				From the 1990s: 2
+Vaccine: MENINGOCOCCAL CONJUGATE + HIB (MENITORIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 4
+		For age group Child
+			Male Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2020s: 1
+Vaccine: VACCINE NOT SPECIFIED (FOREIGN)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 2
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+Vaccine: TD ADSORBED (TDVAX)
+	By manufacturer: MASS. PUB HLTH BIOL LAB
+		Total: 3
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+Vaccine: TD ADSORBED (TENIVAC)
+	By manufacturer: SANOFI PASTEUR
+		Total: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: MEASLES + MUMPS + RUBELLA (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 24
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 2010s: 5
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 4
+		For age group Child
+			Female Records
+				From the 2010s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 2020s: 1
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUZONE HIGH-DOSE)
+	By manufacturer: SANOFI PASTEUR
+		Total: 53
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 29
+		For age group Elderly
+			Male Records
+				From the 2020s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 21
+		For age group Elderly
+			Female Records
+				From the 2020s: 1
+Vaccine: RABIES (RABIE-VAX)
+	By manufacturer: SANOFI PASTEUR
+		Total: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+Vaccine: DTAP + IPV (INFANRIX TETRA)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 6
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+Vaccine: PNEUMO (PNU-IMUNE)
+	By manufacturer: PFIZERWYETH
+		Total: 21
+		For age group Infant
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 1990s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 7
+		For age group Elderly
+			Male Records
+				From the 2000s: 3
+		For age group Elderly
+			Female Records
+				From the 1990s: 4
+		For age group Elderly
+			Female Records
+				From the 1980s: 1
+Vaccine: TETANUS DIPHTHERIA (NO BRAND NAME)
+	By manufacturer: AVENTIS PASTEUR
+		Total: 3
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUENZ)
+	By manufacturer: MEDIMMUNE VACCINES, INC.
+		Total: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+Vaccine: MENINGOCOCCAL (MENINGITEC)
+	By manufacturer: PFIZERWYETH
+		Total: 3
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 1
+Vaccine: DT ADSORBED (NO BRAND NAME)
+	By manufacturer: SANOFI PASTEUR
+		Total: 2
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 3
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 1
+	By manufacturer: BSI
+		Total: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+	By manufacturer: SCLAVO
+		Total: 1
+		For age group Infant
+			Female Records
+				From the 1980s: 1
+	By manufacturer: LEDERLE LABORATORIES
+		Total: 2
+		For age group Child
+			Male Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 10
+		For age group Infant
+			Male Records
+				From the 1990s: 2
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+Vaccine: ANTHRAX (NO BRAND NAME)
+	By manufacturer: MICHIGAN DEPT PUB HLTH
+		Total: 3
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+Vaccine: INFLUENZA (SEASONAL) (FLUCELVAX QUADRIVALENT)
+	By manufacturer: SEQIRUS, INC.
+		Total: 10
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2020s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 2020s: 2
+Vaccine: PLAGUE (USP)
+	By manufacturer: GREER LABORATORIES, INC.
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+Vaccine: PNEUMO (PREVNAR13)
+	By manufacturer: PFIZERWYETH
+		Total: 611
+		For age group Infant
+			Male Records
+				From the 2010s: 251
+		For age group Infant
+			Male Records
+				From the 2020s: 33
+		For age group Infant
+			Female Records
+				From the 2010s: 182
+		For age group Infant
+			Female Records
+				From the 2020s: 17
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 12
+		For age group Infant
+			Unknown Gender Records
+				From the 2020s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 36
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 25
+		For age group Child
+			Female Records
+				From the 2020s: 3
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 26
+		For age group Elderly
+			Female Records
+				From the 2010s: 18
+		For age group Elderly
+			Female Records
+				From the 2020s: 2
+Vaccine: HPV (GARDASIL)
+	By manufacturer: MERCK & CO. INC.
+		Total: 99
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2010s: 9
+		For age group Child
+			Female Records
+				From the 2000s: 28
+		For age group Child
+			Female Records
+				From the 2010s: 32
+		For age group Child
+			Female Records
+				From the 2020s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 17
+		For age group Adult
+			Female Records
+				From the 2010s: 5
+Vaccine: HPV (CERVARIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 15
+		For age group Child
+			Female Records
+				From the 2000s: 4
+		For age group Child
+			Female Records
+				From the 2010s: 4
+		For age group Adult
+			Female Records
+				From the 2010s: 6
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+Vaccine: HEP A + HEP B (TWINRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 16
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 6
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 3
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+Vaccine: DTAP+IPV+HEPB+HIB (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 30
+		For age group Infant
+			Male Records
+				From the 2010s: 16
+		For age group Infant
+			Male Records
+				From the 2020s: 3
+		For age group Infant
+			Female Records
+				From the 2010s: 6
+		For age group Infant
+			Female Records
+				From the 2020s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+Vaccine: INFLUENZA (SEASONAL) (FLUZONE INTRADERMAL)
+	By manufacturer: SANOFI PASTEUR
+		Total: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: DTP + IPV (NO BRAND NAME)
+	By manufacturer: BERNA BIOTECH, LTD.
+		Total: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 19
+		For age group Infant
+			Male Records
+				From the 2010s: 14
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 4
+Vaccine: HEP B (RECOMBIVAX HB)
+	By manufacturer: MERCK & CO. INC.
+		Total: 342
+		For age group Infant
+			Male Records
+				From the 1990s: 88
+		For age group Infant
+			Male Records
+				From the 2000s: 43
+		For age group Infant
+			Male Records
+				From the 2010s: 29
+		For age group Infant
+			Male Records
+				From the 2020s: 4
+		For age group Infant
+			Female Records
+				From the 1990s: 67
+		For age group Infant
+			Female Records
+				From the 2000s: 34
+		For age group Infant
+			Female Records
+				From the 2010s: 21
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 1990s: 6
+		For age group Child
+			Male Records
+				From the 2000s: 4
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 1990s: 10
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 4
+		For age group Adult
+			Male Records
+				From the 2000s: 4
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 9
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 4
+		For age group Elderly
+			Male Records
+				From the 2000s: 4
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+Vaccine: SMALLPOX (ACAM2000)
+	By manufacturer: SANOFI PASTEUR
+		Total: 3
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+Vaccine: HEP B (GENHEVAC B)
+	By manufacturer: SANOFI PASTEUR
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+Vaccine: DTAP (TRIPEDIA)
+	By manufacturer: SANOFI PASTEUR
+		Total: 64
+		For age group Infant
+			Male Records
+				From the 2000s: 36
+		For age group Infant
+			Female Records
+				From the 2000s: 23
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 3
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 106
+		For age group Infant
+			Male Records
+				From the 1990s: 25
+		For age group Infant
+			Male Records
+				From the 2000s: 26
+		For age group Infant
+			Female Records
+				From the 1990s: 23
+		For age group Infant
+			Female Records
+				From the 2000s: 19
+		For age group Child
+			Male Records
+				From the 1990s: 4
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 1990s: 5
+		For age group Child
+			Female Records
+				From the 2000s: 2
+Vaccine: HIB (ACTHIB)
+	By manufacturer: SANOFI PASTEUR
+		Total: 374
+		For age group Infant
+			Male Records
+				From the 2000s: 112
+		For age group Infant
+			Male Records
+				From the 2010s: 75
+		For age group Infant
+			Male Records
+				From the 2020s: 8
+		For age group Infant
+			Female Records
+				From the 2000s: 73
+		For age group Infant
+			Female Records
+				From the 2010s: 59
+		For age group Infant
+			Female Records
+				From the 2020s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 9
+		For age group Child
+			Male Records
+				From the 2000s: 8
+		For age group Child
+			Male Records
+				From the 2010s: 11
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 10
+		For age group Child
+			Female Records
+				From the 2010s: 3
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 113
+		For age group Infant
+			Male Records
+				From the 1990s: 34
+		For age group Infant
+			Male Records
+				From the 2000s: 21
+		For age group Infant
+			Female Records
+				From the 1990s: 25
+		For age group Infant
+			Female Records
+				From the 2000s: 12
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 4
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Female Records
+				From the 1990s: 5
+		For age group Child
+			Female Records
+				From the 2000s: 4
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 1
+Vaccine: POLIO VIRUS, INACT. (NO BRAND NAME)
+	By manufacturer: PASTEUR MERIEUX INST.
+		Total: 44
+		For age group Infant
+			Male Records
+				From the 1990s: 12
+		For age group Infant
+			Male Records
+				From the 2000s: 16
+		For age group Infant
+			Female Records
+				From the 1990s: 7
+		For age group Infant
+			Female Records
+				From the 2000s: 5
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+	By manufacturer: PFIZERWYETH
+		Total: 2
+		For age group Infant
+			Female Records
+				From the 2000s: 2
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 146
+		For age group Infant
+			Male Records
+				From the 1990s: 10
+		For age group Infant
+			Male Records
+				From the 2000s: 38
+		For age group Infant
+			Male Records
+				From the 2010s: 12
+		For age group Infant
+			Male Records
+				From the 2020s: 2
+		For age group Infant
+			Female Records
+				From the 1990s: 5
+		For age group Infant
+			Female Records
+				From the 2000s: 29
+		For age group Infant
+			Female Records
+				From the 2010s: 19
+		For age group Infant
+			Female Records
+				From the 2020s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 5
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 4
+		For age group Child
+			Male Records
+				From the 1990s: 3
+		For age group Child
+			Male Records
+				From the 2000s: 6
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+Vaccine: TETANUS TOXOID (NO BRAND NAME)
+	By manufacturer: PFIZERWYETH
+		Total: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+	By manufacturer: LEDERLE LABORATORIES
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 1990s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 4
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (H1N1) (H1N1 (MONOVALENT) (UNKNOWN))
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 19
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 5
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: YELLOW FEVER (YF-VAX)
+	By manufacturer: SANOFI PASTEUR
+		Total: 12
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 4
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 4
+		For age group Adult
+			Male Records
+				From the 1980s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+Vaccine: TICK-BORNE ENCEPH (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+Vaccine: DTP (NO BRAND NAME)
+	By manufacturer: MASS. PUB HLTH BIOL LAB
+		Total: 15
+		For age group Infant
+			Male Records
+				From the 1990s: 9
+		For age group Infant
+			Female Records
+				From the 1990s: 3
+		For age group Infant
+			Female Records
+				From the 1980s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 1
+	By manufacturer: MICHIGAN DEPT PUB HLTH
+		Total: 15
+		For age group Infant
+			Male Records
+				From the 1990s: 9
+		For age group Infant
+			Female Records
+				From the 1990s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 1
+	By manufacturer: SANOFI PASTEUR
+		Total: 8
+		For age group Infant
+			Male Records
+				From the 2000s: 2
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 4
+		For age group Child
+			Female Records
+				From the 2000s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 227
+		For age group Infant
+			Male Records
+				From the 1990s: 131
+		For age group Infant
+			Female Records
+				From the 1990s: 74
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 4
+		For age group Child
+			Male Records
+				From the 1990s: 10
+		For age group Child
+			Female Records
+				From the 1990s: 6
+		For age group Child
+			Female Records
+				From the 1980s: 2
+	By manufacturer: PFIZERWYETH
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 107
+		For age group Infant
+			Male Records
+				From the 1990s: 21
+		For age group Infant
+			Male Records
+				From the 1980s: 11
+		For age group Infant
+			Male Records
+				From the 1970s: 4
+		For age group Infant
+			Male Records
+				From the 2000s: 12
+		For age group Infant
+			Male Records
+				From the 2010s: 12
+		For age group Infant
+			Female Records
+				From the 1990s: 16
+		For age group Infant
+			Female Records
+				From the 1980s: 2
+		For age group Infant
+			Female Records
+				From the 1970s: 3
+		For age group Infant
+			Female Records
+				From the 2000s: 3
+		For age group Infant
+			Female Records
+				From the 2010s: 9
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 1960s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 2
+		For age group Child
+			Female Records
+				From the 1980s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+Vaccine: TYPHOID LIVE ORAL TY21A (VIVOTIF)
+	By manufacturer: BERNA BIOTECH, LTD.
+		Total: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+	By manufacturer: BERNA BIOTECH, LTD
+		Total: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+Vaccine: MEASLES (NO BRAND NAME)
+	By manufacturer: MERCK & CO. INC.
+		Total: 1
+		For age group Child
+			Male Records
+				From the 1980s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 3
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 2
+Vaccine: DTP + IPV + ACT-HIB (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+Vaccine: DTP (TRI-IMMUNOL)
+	By manufacturer: LEDERLE LABORATORIES
+		Total: 269
+		For age group Infant
+			Male Records
+				From the 1990s: 148
+		For age group Infant
+			Male Records
+				From the 1980s: 15
+		For age group Infant
+			Male Records
+				From the 1970s: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 1990s: 79
+		For age group Infant
+			Female Records
+				From the 1980s: 6
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 3
+		For age group Child
+			Male Records
+				From the 1990s: 9
+		For age group Child
+			Male Records
+				From the 1980s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 4
+		For age group Child
+			Female Records
+				From the 1980s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUENZ TETRA)
+	By manufacturer: MEDIMMUNE VACCINES, INC.
+		Total: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+Vaccine: DTAP (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 65
+		For age group Infant
+			Male Records
+				From the 1990s: 6
+		For age group Infant
+			Male Records
+				From the 1970s: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 22
+		For age group Infant
+			Male Records
+				From the 2010s: 5
+		For age group Infant
+			Female Records
+				From the 1990s: 3
+		For age group Infant
+			Female Records
+				From the 2000s: 14
+		For age group Infant
+			Female Records
+				From the 2010s: 6
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLULAVAL)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 20
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 3
+		For age group Elderly
+			Female Records
+				From the 2000s: 3
+		For age group Elderly
+			Female Records
+				From the 2010s: 4
+Vaccine: INFLUENZA (SEASONAL) (FLUSHIELD)
+	By manufacturer: PFIZERWYETH
+		Total: 36
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 3
+		For age group Elderly
+			Male Records
+				From the 1990s: 9
+		For age group Elderly
+			Male Records
+				From the 2000s: 3
+		For age group Elderly
+			Female Records
+				From the 1990s: 12
+		For age group Elderly
+			Female Records
+				From the 2000s: 2
+Vaccine: HPV (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 7
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 4
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUAD)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 46
+		For age group Elderly
+			Male Records
+				From the 2010s: 12
+		For age group Elderly
+			Male Records
+				From the 2020s: 4
+		For age group Elderly
+			Female Records
+				From the 2010s: 27
+		For age group Elderly
+			Female Records
+				From the 2020s: 3
+Vaccine: HIB (HIBERIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 77
+		For age group Infant
+			Male Records
+				From the 2000s: 24
+		For age group Infant
+			Male Records
+				From the 2010s: 9
+		For age group Infant
+			Male Records
+				From the 2020s: 3
+		For age group Infant
+			Female Records
+				From the 2000s: 20
+		For age group Infant
+			Female Records
+				From the 2010s: 6
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Male Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 2
+Vaccine: HIB (PEDVAXHIB)
+	By manufacturer: MERCK & CO. INC.
+		Total: 247
+		For age group Infant
+			Male Records
+				From the 1990s: 17
+		For age group Infant
+			Male Records
+				From the 2000s: 68
+		For age group Infant
+			Male Records
+				From the 2010s: 39
+		For age group Infant
+			Male Records
+				From the 2020s: 5
+		For age group Infant
+			Female Records
+				From the 1990s: 14
+		For age group Infant
+			Female Records
+				From the 2000s: 46
+		For age group Infant
+			Female Records
+				From the 2010s: 29
+		For age group Infant
+			Female Records
+				From the 2020s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 3
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Male Records
+				From the 2010s: 5
+		For age group Child
+			Male Records
+				From the 2020s: 2
+		For age group Child
+			Female Records
+				From the 1990s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 6
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 1
+Vaccine: MEASLES (ATTENUVAX)
+	By manufacturer: MERCK & CO. INC.
+		Total: 3
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 1980s: 1
+Vaccine: SMALLPOX (DRYVAX)
+	By manufacturer: PFIZERWYETH
+		Total: 13
+		For age group Adult
+			Male Records
+				From the 2000s: 9
+		For age group Adult
+			Female Records
+				From the 2000s: 4
+Vaccine: DTP + HIB (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 9
+		For age group Infant
+			Male Records
+				From the 1990s: 2
+		For age group Infant
+			Male Records
+				From the 2000s: 2
+		For age group Infant
+			Female Records
+				From the 2010s: 4
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (H1N1) (H1N1 (MONOVALENT) (MEDIMMUNE))
+	By manufacturer: MEDIMMUNE VACCINES, INC.
+		Total: 5
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+Vaccine: DTAP + IPV + HIB (INFANRIX QUINTA)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 32
+		For age group Infant
+			Male Records
+				From the 2000s: 4
+		For age group Infant
+			Male Records
+				From the 2010s: 15
+		For age group Infant
+			Female Records
+				From the 2010s: 8
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2010s: 3
+Vaccine: BCG (TICE)
+	By manufacturer: ORGANON-TEKNIKA
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+Vaccine: JAPANESE ENCEPHALITIS (J-VAX)
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 3
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Child
+			Female Records
+				From the 1990s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUZONE)
+	By manufacturer: AVENTIS PASTEUR
+		Total: 9
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 4
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+	By manufacturer: SANOFI PASTEUR
+		Total: 227
+		For age group Infant
+			Male Records
+				From the 2000s: 3
+		For age group Infant
+			Male Records
+				From the 2010s: 10
+		For age group Infant
+			Female Records
+				From the 2000s: 6
+		For age group Infant
+			Female Records
+				From the 2010s: 6
+		For age group Child
+			Male Records
+				From the 2000s: 21
+		For age group Child
+			Male Records
+				From the 2010s: 9
+		For age group Child
+			Female Records
+				From the 2000s: 13
+		For age group Child
+			Female Records
+				From the 2010s: 12
+		For age group Adult
+			Male Records
+				From the 2000s: 8
+		For age group Adult
+			Male Records
+				From the 2010s: 8
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 8
+		For age group Adult
+			Female Records
+				From the 2010s: 4
+		For age group Elderly
+			Male Records
+				From the 2000s: 50
+		For age group Elderly
+			Male Records
+				From the 2010s: 17
+		For age group Elderly
+			Female Records
+				From the 2000s: 40
+		For age group Elderly
+			Female Records
+				From the 2010s: 10
+		For age group Elderly
+			Female Records
+				From the 2020s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 63
+		For age group Infant
+			Male Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 6
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 4
+		For age group Elderly
+			Male Records
+				From the 1990s: 28
+		For age group Elderly
+			Female Records
+				From the 1990s: 20
+		For age group Elderly
+			Unknown Gender Records
+				From the 1990s: 2
+Vaccine: POLIO VIRUS, INACT. (POLIOVAX)
+	By manufacturer: CONNAUGHT LTD.
+		Total: 152
+		For age group Infant
+			Male Records
+				From the 1990s: 33
+		For age group Infant
+			Male Records
+				From the 2000s: 47
+		For age group Infant
+			Female Records
+				From the 1990s: 30
+		For age group Infant
+			Female Records
+				From the 2000s: 35
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 2
+	By manufacturer: SANOFI PASTEUR
+		Total: 88
+		For age group Infant
+			Male Records
+				From the 2000s: 24
+		For age group Infant
+			Male Records
+				From the 2010s: 18
+		For age group Infant
+			Male Records
+				From the 2020s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 11
+		For age group Infant
+			Female Records
+				From the 2010s: 23
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 4
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+Vaccine: HIB + HEP B (COMVAX)
+	By manufacturer: MERCK & CO. INC.
+		Total: 157
+		For age group Infant
+			Male Records
+				From the 1990s: 8
+		For age group Infant
+			Male Records
+				From the 2000s: 89
+		For age group Infant
+			Female Records
+				From the 1990s: 3
+		For age group Infant
+			Female Records
+				From the 2000s: 51
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: HEP A + HEP B (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+Vaccine: DTAP (INFANRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 148
+		For age group Infant
+			Male Records
+				From the 2000s: 64
+		For age group Infant
+			Male Records
+				From the 2010s: 7
+		For age group Infant
+			Female Records
+				From the 2000s: 33
+		For age group Infant
+			Female Records
+				From the 2010s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 4
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 8
+		For age group Child
+			Male Records
+				From the 2010s: 9
+		For age group Child
+			Female Records
+				From the 2000s: 7
+		For age group Child
+			Female Records
+				From the 2010s: 6
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 4
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+	By manufacturer: SMITHKLINE BEECHAM
+		Total: 143
+		For age group Infant
+			Male Records
+				From the 1990s: 15
+		For age group Infant
+			Male Records
+				From the 2000s: 65
+		For age group Infant
+			Female Records
+				From the 1990s: 8
+		For age group Infant
+			Female Records
+				From the 2000s: 41
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 3
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+Vaccine: DTP + HEP B (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 8
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: VARICELLA (VARILRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+Vaccine: POLIO VIRUS, INACT. (IPOL)
+	By manufacturer: SANOFI PASTEUR
+		Total: 233
+		For age group Infant
+			Male Records
+				From the 2000s: 122
+		For age group Infant
+			Male Records
+				From the 2010s: 10
+		For age group Infant
+			Female Records
+				From the 2000s: 73
+		For age group Infant
+			Female Records
+				From the 2010s: 6
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Child
+			Male Records
+				From the 2000s: 5
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 5
+		For age group Child
+			Female Records
+				From the 2010s: 2
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+Vaccine: MENINGOCOCCAL CONJUGATE (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 4
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 2
+Vaccine: JAPANESE ENCEPHALITIS (IXIARO)
+	By manufacturer: INTERCELL AG
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+Vaccine: ANTHRAX (BIOTHRAX)
+	By manufacturer: EMERGENT BIOSOLUTIONS
+		Total: 17
+		For age group Adult
+			Male Records
+				From the 2000s: 11
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+Vaccine: VARICELLA (VARIVAX)
+	By manufacturer: MERCK & CO. INC.
+		Total: 121
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 1990s: 7
+		For age group Child
+			Male Records
+				From the 2000s: 26
+		For age group Child
+			Male Records
+				From the 2010s: 21
+		For age group Child
+			Male Records
+				From the 2020s: 3
+		For age group Child
+			Female Records
+				From the 1990s: 8
+		For age group Child
+			Female Records
+				From the 2000s: 22
+		For age group Child
+			Female Records
+				From the 2010s: 22
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+Vaccine: HEP A (VAQTA)
+	By manufacturer: MERCK & CO. INC.
+		Total: 30
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 11
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 4
+		For age group Child
+			Female Records
+				From the 2010s: 8
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+Vaccine: DTAP+IPV+HEPB+HIB (INFANRIX HEXA)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 103
+		For age group Infant
+			Male Records
+				From the 2000s: 12
+		For age group Infant
+			Male Records
+				From the 2010s: 43
+		For age group Infant
+			Female Records
+				From the 2000s: 11
+		For age group Infant
+			Female Records
+				From the 2010s: 27
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 5
+Vaccine: POLIO VIRUS, ORAL (NO BRAND NAME)
+	By manufacturer: PFIZERWYETH
+		Total: 3
+		For age group Infant
+			Male Records
+				From the 1980s: 1
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 126
+		For age group Infant
+			Male Records
+				From the 1990s: 25
+		For age group Infant
+			Male Records
+				From the 1980s: 10
+		For age group Infant
+			Male Records
+				From the 1970s: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 14
+		For age group Infant
+			Male Records
+				From the 2010s: 15
+		For age group Infant
+			Male Records
+				From the 2020s: 2
+		For age group Infant
+			Female Records
+				From the 1990s: 13
+		For age group Infant
+			Female Records
+				From the 1980s: 3
+		For age group Infant
+			Female Records
+				From the 1970s: 3
+		For age group Infant
+			Female Records
+				From the 2000s: 10
+		For age group Infant
+			Female Records
+				From the 2010s: 11
+		For age group Infant
+			Female Records
+				From the 2020s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 5
+		For age group Child
+			Male Records
+				From the 1990s: 3
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 2
+		For age group Child
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+Vaccine: JAPANESE ENCEPHALITIS (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 2
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (H1N1) (H1N1 (MONOVALENT) (NOVARTIS))
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 19
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 4
+		For age group Adult
+			Female Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 2000s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: POLIO VIRUS, ORAL (ORIMUNE)
+	By manufacturer: PFIZERWYETH
+		Total: 659
+		For age group Infant
+			Male Records
+				From the 1990s: 367
+		For age group Infant
+			Male Records
+				From the 1980s: 11
+		For age group Infant
+			Male Records
+				From the 1970s: 1
+		For age group Infant
+			Female Records
+				From the 1990s: 220
+		For age group Infant
+			Female Records
+				From the 1980s: 5
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 7
+		For age group Child
+			Male Records
+				From the 1990s: 24
+		For age group Child
+			Male Records
+				From the 1980s: 2
+		For age group Child
+			Female Records
+				From the 1990s: 17
+		For age group Child
+			Female Records
+				From the 1980s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+Vaccine: DTAP + HIB (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 7
+		For age group Infant
+			Male Records
+				From the 2000s: 3
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 2
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+Vaccine: COVID19 (COVID19 (PFIZER-BIONTECH))
+	By manufacturer: PFIZERBIONTECH
+		Total: 5449
+		For age group Infant
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Male Records
+				From the 2020s: 16
+		For age group Child
+			Female Records
+				From the 2020s: 31
+		For age group Adult
+			Male Records
+				From the 2020s: 441
+		For age group Adult
+			Female Records
+				From the 2020s: 327
+		For age group Adult
+			Unknown Gender Records
+				From the 2020s: 31
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2020s: 2423
+		For age group Elderly
+			Female Records
+				From the 2020s: 2090
+		For age group Elderly
+			Female Records
+				From the 1950s: 1
+		For age group Elderly
+			Unknown Gender Records
+				From the 2020s: 87
+Vaccine: MEASLES + MUMPS + RUBELLA (VIRIVAC)
+	By manufacturer: MERCK & CO. INC.
+		Total: 2
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: TETANUS TOXOID, ADSORBED (NO BRAND NAME)
+	By manufacturer: SANOFI PASTEUR
+		Total: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 2
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: DTAP (ACEL-IMUNE)
+	By manufacturer: PFIZERWYETH
+		Total: 51
+		For age group Infant
+			Male Records
+				From the 1990s: 15
+		For age group Infant
+			Male Records
+				From the 2000s: 16
+		For age group Infant
+			Female Records
+				From the 1990s: 10
+		For age group Infant
+			Female Records
+				From the 2000s: 8
+		For age group Infant
+			Unknown Gender Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (SEASONAL) (AGRIFLU)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+Vaccine: RABIES (IMOVAX)
+	By manufacturer: PASTEUR MERIEUX INST.
+		Total: 3
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 2
+	By manufacturer: SANOFI PASTEUR
+		Total: 7
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+Vaccine: DTAP + IPV (UNKNOWN)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 7
+		For age group Infant
+			Male Records
+				From the 2010s: 2
+		For age group Infant
+			Male Records
+				From the 2020s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 2020s: 1
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+Vaccine: INFLUENZA (SEASONAL) (AFLURIA)
+	By manufacturer: CSL LIMITED
+		Total: 23
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 4
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 8
+		For age group Elderly
+			Female Records
+				From the 2000s: 3
+		For age group Elderly
+			Female Records
+				From the 2010s: 4
+Vaccine: INFLUENZA (SEASONAL) (FLU-IMUNE)
+	By manufacturer: PFIZERWYETH
+		Total: 10
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Female Records
+				From the 1990s: 4
+	By manufacturer: LEDERLE LABORATORIES
+		Total: 5
+		For age group Elderly
+			Male Records
+				From the 1990s: 2
+		For age group Elderly
+			Female Records
+				From the 1990s: 3
+Vaccine: MENINGOCOCCAL B (TRUMENBA)
+	By manufacturer: PFIZERWYETH
+		Total: 1
+		For age group Child
+			Female Records
+				From the 2020s: 1
+Vaccine: RABIES (RABAVERT)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 15
+		For age group Child
+			Male Records
+				From the 2000s: 4
+		For age group Child
+			Female Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 1990s: 2
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 1990s: 1
+Vaccine: MEASLES + MUMPS + RUBELLA + VARICELLA (PROQUAD)
+	By manufacturer: MERCK & CO. INC.
+		Total: 19
+		For age group Child
+			Male Records
+				From the 2000s: 4
+		For age group Child
+			Male Records
+				From the 2010s: 4
+		For age group Child
+			Male Records
+				From the 2020s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 5
+		For age group Child
+			Female Records
+				From the 2020s: 1
+Vaccine: MUMPS (MUMPSVAX II)
+	By manufacturer: MERCK & CO. INC.
+		Total: 2
+		For age group Child
+			Female Records
+				From the 1980s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+Vaccine: INFLUENZA (SEASONAL) (TIV DRESDEN)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 2
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: HEP B (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 120
+		For age group Infant
+			Male Records
+				From the 1990s: 8
+		For age group Infant
+			Male Records
+				From the 2000s: 18
+		For age group Infant
+			Male Records
+				From the 2010s: 21
+		For age group Infant
+			Male Records
+				From the 2020s: 7
+		For age group Infant
+			Female Records
+				From the 1990s: 5
+		For age group Infant
+			Female Records
+				From the 2000s: 14
+		For age group Infant
+			Female Records
+				From the 2010s: 16
+		For age group Infant
+			Female Records
+				From the 2020s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2000s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 10
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Child
+			Female Records
+				From the 1990s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+Vaccine: LYME (LYMERIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+	By manufacturer: SMITHKLINE BEECHAM
+		Total: 2
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+Vaccine: DT + IPV (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 3
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: BCG (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 26
+		For age group Infant
+			Male Records
+				From the 1990s: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 4
+		For age group Infant
+			Male Records
+				From the 2010s: 8
+		For age group Infant
+			Female Records
+				From the 2000s: 5
+		For age group Infant
+			Female Records
+				From the 2010s: 5
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+Vaccine: ROTAVIRUS (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 24
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Male Records
+				From the 2010s: 10
+		For age group Infant
+			Male Records
+				From the 2020s: 2
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 3
+		For age group Infant
+			Female Records
+				From the 2020s: 4
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUZONE QUADRIVALENT)
+	By manufacturer: SANOFI PASTEUR
+		Total: 53
+		For age group Infant
+			Male Records
+				From the 2010s: 4
+		For age group Infant
+			Female Records
+				From the 2010s: 4
+		For age group Child
+			Male Records
+				From the 2010s: 10
+		For age group Child
+			Male Records
+				From the 2020s: 6
+		For age group Child
+			Female Records
+				From the 2010s: 5
+		For age group Child
+			Female Records
+				From the 2020s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 4
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 5
+		For age group Elderly
+			Male Records
+				From the 2020s: 5
+		For age group Elderly
+			Female Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 2020s: 2
+Vaccine: MEASLES + RUBELLA (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 2
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+Vaccine: HPV (GARDASIL 9)
+	By manufacturer: MERCK & CO. INC.
+		Total: 11
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2010s: 6
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+Vaccine: RABIES (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 7
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUCELVAX)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 2
+Vaccine: RABIES (IMOVAX ID)
+	By manufacturer: PASTEUR MERIEUX INST.
+		Total: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+Vaccine: HEP A (HAVRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 55
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 7
+		For age group Child
+			Male Records
+				From the 2010s: 9
+		For age group Child
+			Male Records
+				From the 2020s: 3
+		For age group Child
+			Female Records
+				From the 2000s: 3
+		For age group Child
+			Female Records
+				From the 2010s: 13
+		For age group Child
+			Female Records
+				From the 2020s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 2010s: 4
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+	By manufacturer: SMITHKLINE BEECHAM
+		Total: 12
+		For age group Child
+			Male Records
+				From the 1990s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 1990s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 1
+Vaccine: TDAP (ADACEL)
+	By manufacturer: SANOFI PASTEUR
+		Total: 31
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Child
+			Male Records
+				From the 2010s: 2
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 4
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 2010s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 4
+		For age group Adult
+			Female Records
+				From the 2010s: 3
+		For age group Elderly
+			Male Records
+				From the 2010s: 4
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2020s: 1
+Vaccine: ADENOVIRUS TYPES 4 & 7, LIVE, ORAL (NO BRAND NAME)
+	By manufacturer: TEVA PHARMACEUTICALS
+		Total: 1
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUAD QUADRIVALENT)
+	By manufacturer: SEQIRUS, INC.
+		Total: 7
+		For age group Elderly
+			Male Records
+				From the 2020s: 4
+		For age group Elderly
+			Female Records
+				From the 2020s: 3
+Vaccine: COVID19 (COVID19 (JANSSEN))
+	By manufacturer: JANSSEN
+		Total: 675
+		For age group Adult
+			Male Records
+				From the 2020s: 116
+		For age group Adult
+			Female Records
+				From the 2020s: 65
+		For age group Adult
+			Unknown Gender Records
+				From the 2020s: 1
+		For age group Elderly
+			Male Records
+				From the 2020s: 276
+		For age group Elderly
+			Female Records
+				From the 2020s: 216
+		For age group Elderly
+			Unknown Gender Records
+				From the 2020s: 1
+Vaccine: DTP + HIB (DTP + ACTHIB)
+	By manufacturer: SANOFI PASTEUR
+		Total: 9
+		For age group Infant
+			Male Records
+				From the 1990s: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 4
+		For age group Infant
+			Female Records
+				From the 2000s: 4
+Vaccine: VARICELLA (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 5
+		For age group Child
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2020s: 1
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 2
+Vaccine: DTAP + IPV + HIB (UNKNOWN)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 9
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Male Records
+				From the 2020s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 7
+Vaccine: DT + IPV (FOREIGN)
+	By manufacturer: PASTEUR MERIEUX INST.
+		Total: 2
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+Vaccine: DTAP+IPV+HEPB+HIB (HEXAVAC)
+	By manufacturer: SANOFI PASTEUR
+		Total: 3
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+Vaccine: YELLOW FEVER (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 11
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 3
+		For age group Elderly
+			Male Records
+				From the 1970s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+Vaccine: MEASLES + MUMPS (MM-VAX)
+	By manufacturer: MERCK & CO. INC.
+		Total: 3
+		For age group Child
+			Female Records
+				From the 1990s: 1
+		For age group Child
+			Female Records
+				From the 1980s: 2
+Vaccine: MENINGOCOCCAL CONJUGATE + HIB (UNKNOWN)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 1
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: DTAP + HIB (TRIHIBIT)
+	By manufacturer: SANOFI PASTEUR
+		Total: 2
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+Vaccine: TYPHOID VI POLYSACCHARIDE (NO BRAND NAME)
+	By manufacturer: PFIZERWYETH
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 7
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+Vaccine: DT ADSORBED (DITANRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 1
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+Vaccine: TYPHOID VI POLYSACCHARIDE (ACETONE INACTIVATED DRIED)
+	By manufacturer: PFIZERWYETH
+		Total: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+Vaccine: HEP B (FOREIGN)
+	By manufacturer: MERCK & CO. INC.
+		Total: 24
+		For age group Infant
+			Male Records
+				From the 1990s: 7
+		For age group Infant
+			Male Records
+				From the 2000s: 4
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Infant
+			Female Records
+				From the 1990s: 8
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Infant
+			Female Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 1990s: 1
+Vaccine: COVID19 (COVID19 (UNKNOWN))
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 34
+		For age group Adult
+			Male Records
+				From the 2020s: 12
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 3
+		For age group Elderly
+			Male Records
+				From the 2020s: 9
+		For age group Elderly
+			Female Records
+				From the 2020s: 9
+Vaccine: ZOSTER (SHINGRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 41
+		For age group Adult
+			Male Records
+				From the 2020s: 1
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 12
+		For age group Elderly
+			Male Records
+				From the 2020s: 15
+		For age group Elderly
+			Female Records
+				From the 2010s: 9
+		For age group Elderly
+			Female Records
+				From the 2020s: 2
+		For age group Elderly
+			Unknown Gender Records
+				From the 2010s: 1
+Vaccine: MUMPS (MUMPSVAX I)
+	By manufacturer: MERCK & CO. INC.
+		Total: 1
+		For age group Child
+			Male Records
+				From the 1980s: 1
+Vaccine: INFLUENZA (SEASONAL) (CHIROMAS)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 16
+		For age group Elderly
+			Male Records
+				From the 2020s: 9
+		For age group Elderly
+			Female Records
+				From the 2020s: 7
+Vaccine: HIB POLYSACCHARIDE (HIBIMUNE)
+	By manufacturer: PFIZERWYETH
+		Total: 8
+		For age group Infant
+			Male Records
+				From the 2000s: 4
+		For age group Infant
+			Female Records
+				From the 1990s: 1
+		For age group Infant
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 1990s: 2
+Vaccine: TYPHOID VI POLYSACCHARIDE (TYPHIM VI)
+	By manufacturer: SANOFI PASTEUR
+		Total: 8
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Adult
+			Male Records
+				From the 2010s: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 5
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 1990s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: DTAP + IPV (KINRIX)
+	By manufacturer: GLAXOSMITHKLINE BIOLOGICALS
+		Total: 6
+		For age group Infant
+			Female Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 3
+		For age group Child
+			Female Records
+				From the 2010s: 1
+Vaccine: INFLUENZA (SEASONAL) (FLUZONE HIGH-DOSE QUADRIVALENT)
+	By manufacturer: SANOFI PASTEUR
+		Total: 23
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+		For age group Elderly
+			Male Records
+				From the 2020s: 12
+		For age group Elderly
+			Female Records
+				From the 2020s: 10
+Vaccine: DTAP + HEPB + IPV (NO BRAND NAME)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 2
+		For age group Infant
+			Male Records
+				From the 2010s: 2
+Vaccine: INFLUENZA (SEASONAL) (FOREIGN)
+	By manufacturer: NOVARTIS VACCINES AND DIAGNOSTICS
+		Total: 10
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 4
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 4
+	By manufacturer: CSL LIMITED
+		Total: 5
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 2
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+Vaccine: DTAP + IPV + HIB (PENTACEL)
+	By manufacturer: SANOFI PASTEUR
+		Total: 209
+		For age group Infant
+			Male Records
+				From the 2000s: 22
+		For age group Infant
+			Male Records
+				From the 2010s: 94
+		For age group Infant
+			Male Records
+				From the 2020s: 15
+		For age group Infant
+			Female Records
+				From the 2000s: 10
+		For age group Infant
+			Female Records
+				From the 2010s: 50
+		For age group Infant
+			Female Records
+				From the 2020s: 5
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 2
+		For age group Child
+			Male Records
+				From the 2010s: 5
+		For age group Child
+			Female Records
+				From the 2010s: 5
+		For age group Child
+			Female Records
+				From the 2020s: 1
+Vaccine: VACCINE NOT SPECIFIED (OTHER)
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 6
+		For age group Infant
+			Male Records
+				From the 2010s: 3
+		For age group Infant
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Elderly
+			Male Records
+				From the 2020s: 1
+		For age group Elderly
+			Female Records
+				From the 2020s: 1
+Vaccine: INFLUENZA (SEASONAL) (NO BRAND NAME)
+	By manufacturer: SANOFI PASTEUR
+		Total: 10
+		For age group Child
+			Male Records
+				From the 2000s: 3
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 2010s: 3
+	By manufacturer: PFIZERWYETH
+		Total: 46
+		For age group Child
+			Male Records
+				From the 1990s: 2
+		For age group Adult
+			Male Records
+				From the 1990s: 5
+		For age group Adult
+			Female Records
+				From the 1990s: 3
+		For age group Elderly
+			Male Records
+				From the 1990s: 17
+		For age group Elderly
+			Female Records
+				From the 1990s: 19
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 159
+		For age group Infant
+			Male Records
+				From the 2000s: 1
+		For age group Infant
+			Male Records
+				From the 2010s: 1
+		For age group Child
+			Male Records
+				From the 2000s: 1
+		For age group Child
+			Male Records
+				From the 2010s: 4
+		For age group Child
+			Female Records
+				From the 2000s: 1
+		For age group Child
+			Female Records
+				From the 2010s: 6
+		For age group Child
+			Unknown Gender Records
+				From the 2000s: 1
+		For age group Child
+			Unknown Gender Records
+				From the 2010s: 1
+		For age group Adult
+			Male Records
+				From the 1990s: 5
+		For age group Adult
+			Male Records
+				From the 2000s: 5
+		For age group Adult
+			Male Records
+				From the 2010s: 5
+		For age group Adult
+			Female Records
+				From the 1990s: 2
+		For age group Adult
+			Female Records
+				From the 2000s: 2
+		For age group Adult
+			Female Records
+				From the 2010s: 12
+		For age group Adult
+			Female Records
+				From the 2020s: 1
+		For age group Adult
+			Unknown Gender Records
+				From the 2000s: 2
+		For age group Elderly
+			Male Records
+				From the 1990s: 7
+		For age group Elderly
+			Male Records
+				From the 2000s: 16
+		For age group Elderly
+			Male Records
+				From the 2010s: 25
+		For age group Elderly
+			Male Records
+				From the 2020s: 2
+		For age group Elderly
+			Female Records
+				From the 1990s: 7
+		For age group Elderly
+			Female Records
+				From the 2000s: 26
+		For age group Elderly
+			Female Records
+				From the 2010s: 16
+		For age group Elderly
+			Female Records
+				From the 2020s: 6
+		For age group Elderly
+			Unknown Gender Records
+				From the 2000s: 3
+		For age group Elderly
+			Unknown Gender Records
+				From the 2010s: 1
+Vaccine: ZOSTER LIVE (ZOSTAVAX)
+	By manufacturer: MERCK & CO. INC.
+		Total: 66
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Adult
+			Male Records
+				From the 2010s: 3
+		For age group Adult
+			Female Records
+				From the 2010s: 2
+		For age group Elderly
+			Male Records
+				From the 2000s: 10
+		For age group Elderly
+			Male Records
+				From the 2010s: 17
+		For age group Elderly
+			Male Records
+				From the 2020s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 8
+		For age group Elderly
+			Female Records
+				From the 2010s: 22
+		For age group Elderly
+			Unknown Gender Records
+				From the 2010s: 2
+Vaccine: TD ADSORBED (NO BRAND NAME)
+	By manufacturer: SANOFI PASTEUR
+		Total: 11
+		For age group Adult
+			Male Records
+				From the 2000s: 5
+		For age group Adult
+			Male Records
+				From the 2010s: 1
+		For age group Adult
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 2010s: 1
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
+		For age group Elderly
+			Female Records
+				From the 2010s: 1
+	By manufacturer: CONNAUGHT LABORATORIES
+		Total: 4
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Male Records
+				From the 2000s: 1
+		For age group Elderly
+			Male Records
+				From the 1990s: 1
+		For age group Elderly
+			Female Records
+				From the 1990s: 1
+	By manufacturer: LEDERLE LABORATORIES
+		Total: 2
+		For age group Adult
+			Male Records
+				From the 1990s: 1
+		For age group Adult
+			Female Records
+				From the 1980s: 1
+	By manufacturer: UNKNOWN MANUFACTURER
+		Total: 5
+		For age group Adult
+			Male Records
+				From the 2000s: 2
+		For age group Elderly
+			Female Records
+				From the 1990s: 2
+		For age group Elderly
+			Female Records
+				From the 2000s: 1
